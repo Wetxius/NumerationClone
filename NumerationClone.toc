@@ -1,0 +1,36 @@
+## Interface: 90002
+## Title: NumerationClone
+## Notes: Lightweight and useful damage/healing meter.
+## Notes-ruRU: Легкий и удобный измеритель урона/исцеления.
+## Author: nekoh, Wetxius
+## Thanks: Shestak
+## Version: 2.9.7
+## OptionalDeps: !ClassColors
+## SavedVariablesPerCharacter: NumerationCloneCharDB, NumerationCloneCharOptions
+
+## X-Curse-Project-ID: 75133
+## X-WoWI-ID: 17434
+
+Locales.lua
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0.lua
+Libs\LibBossIDs.lua
+
+Config.lua
+Core.lua
+Window.lua
+Collect.lua
+
+Views\Sets.lua
+Views\Type.lua
+Views\Units.lua
+Views\UnitSpells.lua
+Views\UnitTargets.lua
+Views\Targets.lua
+Views\TargetUnits.lua
+Views\Spells.lua
+Views\SpellUnits.lua
+Views\Deathlog.lua
+Views\DeathlogDetail.lua
