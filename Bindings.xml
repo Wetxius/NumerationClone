@@ -1,8 +1,8 @@
 <Bindings>
-	<Binding name="NUMERATIONCLONE_VISIBILITY" header="NUMERATIONCLONE">
+	<Binding category="BINDING_HEADER_NUMERATIONCLONE" name="NUMERATIONCLONE_VISIBILITY">
 		NumerationClone:ToggleVisibility()
 	</Binding>
-	<Binding name="NUMERATIONCLONE_RESET">
+	<Binding category="BINDING_HEADER_NUMERATIONCLONE" name="NUMERATIONCLONE_RESET">
 		StaticPopup_Show("RESET_DATA")
 	</Binding>
 </Bindings>
